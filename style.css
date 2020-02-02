@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+form {
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+}
+
+button {
+  padding: 10px;
+  border: 1px solid red;
+  background-color: red;
+  color: white;
+  margin: 10px;
+}
+
+button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
